@@ -1,0 +1,14 @@
+img {
+  border-radius: 50%;
+  width: 30%;
+  height: 30%;
+}
+
+body {
+  font-family: 'Indie Flower', cursive;
+  background-color: #fcd5ce
+}
+
+h1, h2{
+  color: #48cae4
+}
